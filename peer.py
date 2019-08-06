@@ -1,4 +1,4 @@
-from noodles.ledger import Ledger, Transaction
+from ledger import Ledger, Transaction
 from networkx import Graph
 
 
